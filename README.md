@@ -8,7 +8,7 @@ for Professional English homework
 [github首页](http://github.com)
 
 [gitee首页](http://gitee.com)
-[另一个Markdown文件](https://github.com/Quincey-Zeng/PE-homework/blob/main/anothermd.md)
+[另一个Markdown文件](https://github.com/EATISUI/Homework/edit/main/README.md
 
 ### Image
 外部图片  
