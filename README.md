@@ -18,13 +18,9 @@ for Professional English homework
 
 
 ###  code block
-```python
-# define a function
-def function():
-  print("this is a code block)
-  
-function
-```
+<?php
+echo "123"
+?>
 
 ### quote
 > a block quote
