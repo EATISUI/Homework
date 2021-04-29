@@ -10,9 +10,9 @@ for Professional English homework
 
 ### image
 外部图片  
-![Image](http://static.runoob.com/images/runoob-logo.png "外部图片")  
+![Image](http://static.runoob.com/images/runoob-logo.png)  
 仓库图片   
-![Image2](https://github.com/Quincey-Zeng/PE-homework/blob/main/png1.png "仓库文件")
+![Image2](https://github.com/EATISUI/Homework/commit/f8b54fc181c478d2caf64623c46705040ad8062d)
 
 
 ###  code block
@@ -23,28 +23,23 @@ for Professional English homework
 ```
 
 ### quote
-> a block quote
-> >  this is a quote 
+> 最外层
+> > 第一层嵌套
+> > > 第二层嵌套
 
 ### list
-a bulleted list
-* first 
-* second 
+a list
+* first list
+* second list
     *    the first element   
     *    the second element    
-* third 
- 
-a numbered list  
-1.the first line    
-2.the second line   
-3.the third line   
+* third list
 
 ### table 
-姓名|学号|班级
---|:--:|--:
-张三|001|1
-李四|002|1
-王五|003|2
+| 左对齐 | 右对齐 | 居中对齐 |
+| :-----| ----: | :----: |
+| 单元格 | 单元格 | 单元格 |
+| 单元格 | 单元格 | 单元格 |
 
 ### word
 *syntax word*  
