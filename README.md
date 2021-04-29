@@ -18,9 +18,16 @@ for Professional English homework
 
 
 ###  code block
+```javascript
+$(document).ready(function () {
+    alert('RUNOOB');
+});
+```
+```php
    <?php
    echo "123"
    ?>
+```
 
 ### quote
 > a block quote
